@@ -383,7 +383,7 @@ helm install hamada-gitlab-runner gitlab/gitlab-runner -f config-tmp.yaml --name
 
 無事インストールされ、GitLab.comからこのようにGitLab Runnerが認識されていれば、インストール成功です。お疲れさまでした！
 
-
+[Settings] -> [CI/CD Settings] -> [Runners]
 
 ### 実際にデプロイされたPodを確認
 
